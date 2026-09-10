@@ -1,0 +1,52 @@
+ Handling Overfitting
+│
+├── Imports
+├── Device and Random Seed
+├── MNIST Dataset
+├── 2,000 Sample Dataset
+├── Deep MLP Model
+├── Dropout Model
+├── EarlyStopping Class
+├── Training Function
+├── Plot Function
+│
+├── TASK 1
+│   ├── Baseline Training
+│   ├── Loss Plot
+│   ├── Accuracy Plot
+│   ├── Accuracy Gap
+│   └── Validation Loss Rise
+│
+├── TASK 2.1
+│   ├── Dropout Training
+│   ├── Plots
+│   └── Results
+│
+├── TASK 2.2
+│   ├── L2 Training
+│   ├── Plots
+│   └── Results
+│
+├── TASK 2.3
+│   ├── Augmented Dataset
+│   ├── Training
+│   ├── Plots
+│   └── Results
+│
+├── TASK 2.4
+│   ├── Early Stopping
+│   ├── Plots
+│   └── Results
+│
+├── TASK 3
+│   ├── Find Best Two
+│   ├── Combined Model
+│   ├── Plots
+│   └── Results
+│
+└── TASK 4
+    ├── Comparison Table
+    ├── Six Validation Accuracy Curves
+    ├── Best Technique
+    ├── Gap Reduction
+    └── Discussion
